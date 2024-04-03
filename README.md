@@ -1,6 +1,6 @@
 # flutter_birthday_card
 
-A new Flutter project.
+생일 카드 위젯 만들기
 
 ## Getting Started
 
